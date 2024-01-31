@@ -1,8 +1,6 @@
-![MasterHead](https://cdna.artstation.com/p/assets/images/images/036/822/576/original/karina-formanova-cover-final.gif?1618727960)
-
 # 👨‍💻 About Me:
 💻 I’m currently working on my bachelors thesis<br>📖 I’m currently learning PHP, JavaScript, React<br>💡 I know Python, C++, C#, HTML/CSS, Ai, little bit assembly, Wordpress and little more...<br>❔ Fun fact I enjoy hiking and camping.
-
+(img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/036/822/576/original/karina-formanova-cover-final.gif?1618727960")
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/not.me.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-berat-canpolat-42335820b) 
