@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 💻 I’m currently working on my bachelors thesis<br>📖 I’m currently learning PHP, JavaScript, React<br>💡 I know Python, C++, C#, HTML/CSS, Ai, little bit assembly, Wordpress and little more...<br>❔ Fun fact I enjoy hiking and camping.
 
 
