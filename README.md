@@ -5,7 +5,6 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/not.me.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-berat-canpolat-42335820b) 
-<a href="(https://www.hackerrank.com/profile/beratcann_02)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@beratcann_02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/oneseccc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oneseccc" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
