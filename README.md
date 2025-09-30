@@ -1,7 +1,7 @@
 ![MasterHead](https://cdna.artstation.com/p/assets/images/images/036/822/576/original/karina-formanova-cover-final.gif?1618727960)
 
 # 👨‍💻 About Me:
-💻 I’m currently working on my bachelors thesis<br>📖 I’m currently learning ML, Tensorflow, Keras <br>💡 I know Python, C#, HTML/CSS, ML, little bit assembly and Wordpress, conceptually little more...<br>
+💻 I’m currently working on AI and Automation related projects<br>📖 I’m currently learning ML, GenAI, Automation technologies <br>💡 I know Python, JS, SQL, HTML/CSS, ML, little bit assembly, conceptually little more...<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/not.me.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-berat-canpolat-42335820b) 
